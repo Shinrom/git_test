@@ -1,0 +1,1 @@
+This is ShinRom's first git project!
